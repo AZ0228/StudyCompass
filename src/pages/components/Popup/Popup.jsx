@@ -22,7 +22,7 @@ function Popup(){
 
     const onNext = () => {
         if(num === 2){
-            navigate('/');
+            navigate('/next');
         }
         setNum(num+1);
         setLoading(true);

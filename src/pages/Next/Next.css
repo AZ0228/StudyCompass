@@ -1,0 +1,27 @@
+:root{
+    --val: #FFFFE3;
+    --red: #FF6363;
+}
+
+.valentine{
+    background-color: #10100E;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.valentine h1{
+    font-family: 'Telma';    
+    font-size:128px;
+    color: var(--red);
+    margin:0;
+}
+
+.valentine h2{
+    font-family:'Boska';
+    font-size:100px;
+    color: var(--val);
+}
+
+

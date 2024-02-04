@@ -9,3 +9,15 @@
     font-weight: normal;
     src: url(Satoshi-Bold.otf);
 }
+
+@font-face {
+    font-family: 'Boska';
+    font-weight: lighter;
+    src: url(Boska-Bold.otf);
+}
+
+@font-face {
+    font-family: 'Telma';
+    font-weight: lighter;
+    src: url(Temla-Bold.otf);
+}
