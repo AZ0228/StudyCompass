@@ -43,4 +43,35 @@
   /* justify-content:center; */
   align-items:center;
   min-height:100vh;
+  position: relative;
+}
+
+.popup{
+  height:500px;
+  width:400px;
+  position: absolute;
+  background-color: white;
+  z-index: 2;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.smokescreen{
+  position: absolute;
+  height:100%;
+  width:100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s all;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.active{
+  opacity: 1;
+  z-index: 2;
+  pointer-events: all;
 }
