@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/StudyCompass/static/css/main.56353f99.css",
-    "main.js": "/StudyCompass/static/js/main.7a16e0a9.js",
+    "main.js": "/StudyCompass/static/js/main.54a693fd.js",
     "static/js/592.d412b086.chunk.js": "/StudyCompass/static/js/592.d412b086.chunk.js",
     "static/media/Boska-Bold.otf": "/StudyCompass/static/media/Boska-Bold.55a26313aa41906f98f1.otf",
     "static/media/Telma-Bold.otf": "/StudyCompass/static/media/Telma-Bold.c358ee88360163e24a15.otf",
@@ -15,11 +15,11 @@
     "static/media/circle-warning.svg": "/StudyCompass/static/media/circle-warning.03696e5524868f482c7e6ee0eb72bbf8.svg",
     "index.html": "/StudyCompass/index.html",
     "main.56353f99.css.map": "/StudyCompass/static/css/main.56353f99.css.map",
-    "main.7a16e0a9.js.map": "/StudyCompass/static/js/main.7a16e0a9.js.map",
+    "main.54a693fd.js.map": "/StudyCompass/static/js/main.54a693fd.js.map",
     "592.d412b086.chunk.js.map": "/StudyCompass/static/js/592.d412b086.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56353f99.css",
-    "static/js/main.7a16e0a9.js"
+    "static/js/main.54a693fd.js"
   ]
 }
