@@ -1,23 +1,23 @@
 @font-face {
     font-family: 'Satoshi';
     font-weight: bold;
-    src: url(Satoshi-Black.otf);
+    src: url('./Satoshi-Black.otf');
 }
 
 @font-face {
     font-family: 'Satoshi';
     font-weight: normal;
-    src: url(Satoshi-Bold.otf);
+    src: url('./Satoshi-Bold.otf');
 }
 
 @font-face {
     font-family: 'Boska';
     font-weight: lighter;
-    src: url(Boska-Bold.otf);
+    src: url('./Boska-Bold.otf');
 }
 
 @font-face {
     font-family: 'Telma';
     font-weight: lighter;
-    src: url(Temla-Bold.otf);
+    src: url('./Telma-Bold.otf');
 }
