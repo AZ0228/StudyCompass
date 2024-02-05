@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/studycompass/static/css/main.5a7c1238.css",
-    "main.js": "/studycompass/static/js/main.e8faee44.js",
-    "static/js/592.d412b086.chunk.js": "/studycompass/static/js/592.d412b086.chunk.js",
-    "static/media/Boska-Bold.otf": "/studycompass/static/media/Boska-Bold.55a26313aa41906f98f1.otf",
-    "static/media/Telma-Bold.otf": "/studycompass/static/media/Telma-Bold.c358ee88360163e24a15.otf",
-    "static/media/Satoshi-Bold.otf": "/studycompass/static/media/Satoshi-Bold.b5dd7deee13e32689234.otf",
-    "static/media/Satoshi-Black.otf": "/studycompass/static/media/Satoshi-Black.d27fb329e3c56de46506.otf",
-    "static/media/dummycal.png": "/studycompass/static/media/dummycal.ea0e0c262019c39f0eca.png",
-    "static/media/red_logo.svg": "/studycompass/static/media/red_logo.432999ea162bc3f97eb1417a5d1a7f17.svg",
-    "static/media/logo.svg": "/studycompass/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/compass.svg": "/studycompass/static/media/compass.f4b0ea33b04e4d873631edd56308eb57.svg",
-    "static/media/googleG.svg": "/studycompass/static/media/googleG.2d17e5ec9fa66b30668e149233dd6614.svg",
-    "static/media/circle-warning.svg": "/studycompass/static/media/circle-warning.03696e5524868f482c7e6ee0eb72bbf8.svg",
-    "index.html": "/studycompass/index.html",
-    "main.5a7c1238.css.map": "/studycompass/static/css/main.5a7c1238.css.map",
-    "main.e8faee44.js.map": "/studycompass/static/js/main.e8faee44.js.map",
-    "592.d412b086.chunk.js.map": "/studycompass/static/js/592.d412b086.chunk.js.map"
+    "main.css": "/StudyCompass/static/css/main.56353f99.css",
+    "main.js": "/StudyCompass/static/js/main.7a16e0a9.js",
+    "static/js/592.d412b086.chunk.js": "/StudyCompass/static/js/592.d412b086.chunk.js",
+    "static/media/Boska-Bold.otf": "/StudyCompass/static/media/Boska-Bold.55a26313aa41906f98f1.otf",
+    "static/media/Telma-Bold.otf": "/StudyCompass/static/media/Telma-Bold.c358ee88360163e24a15.otf",
+    "static/media/Satoshi-Bold.otf": "/StudyCompass/static/media/Satoshi-Bold.b5dd7deee13e32689234.otf",
+    "static/media/Satoshi-Black.otf": "/StudyCompass/static/media/Satoshi-Black.d27fb329e3c56de46506.otf",
+    "static/media/dummycal.png": "/StudyCompass/static/media/dummycal.ea0e0c262019c39f0eca.png",
+    "static/media/red_logo.svg": "/StudyCompass/static/media/red_logo.432999ea162bc3f97eb1417a5d1a7f17.svg",
+    "static/media/logo.svg": "/StudyCompass/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/compass.svg": "/StudyCompass/static/media/compass.f4b0ea33b04e4d873631edd56308eb57.svg",
+    "static/media/googleG.svg": "/StudyCompass/static/media/googleG.2d17e5ec9fa66b30668e149233dd6614.svg",
+    "static/media/circle-warning.svg": "/StudyCompass/static/media/circle-warning.03696e5524868f482c7e6ee0eb72bbf8.svg",
+    "index.html": "/StudyCompass/index.html",
+    "main.56353f99.css.map": "/StudyCompass/static/css/main.56353f99.css.map",
+    "main.7a16e0a9.js.map": "/StudyCompass/static/js/main.7a16e0a9.js.map",
+    "592.d412b086.chunk.js.map": "/StudyCompass/static/js/592.d412b086.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a7c1238.css",
-    "static/js/main.e8faee44.js"
+    "static/css/main.56353f99.css",
+    "static/js/main.7a16e0a9.js"
   ]
 }
